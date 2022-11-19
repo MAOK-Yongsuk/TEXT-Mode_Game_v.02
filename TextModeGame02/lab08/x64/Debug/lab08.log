@@ -1,0 +1,5 @@
+﻿  lab08.cpp
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB08\lab08\lab08\lab08.cpp(103,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB08\lab08\lab08\lab08.cpp(119,92): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB08\lab08\lab08\lab08.cpp(98,6): warning C4101: 'i': unreferenced local variable
+  lab08.vcxproj -> C:\Users\HP\OneDrive - KMITL\CE-KMITL65\Semester1\PRO-FUNDAMENTAL , PRO-PROJECT\[-LAB_Com\LAB08\lab08\x64\Debug\lab08.exe
